@@ -3,7 +3,7 @@
 ## Hola, mi nombre es Jose, bienvenido/a a mi perfil :v:
 
 ### Mi redes sociales 
-* :white_check_mark: Red pública: **[Linkedin](www.linkedin.com/in/jose-conde-garcia)**
+* :white_check_mark: Red pública: **[Linkedin](https://www.linkedin.com/in/jose-conde-garcia)**
 * :white_check_mark: Mi sitio web: **[Blog](https://rinconh4ck.blogspot.com/)**
 
 ### Resumen Herramientas
