@@ -25,7 +25,7 @@
 
 <h3 align="left">Lenguajes Favoritos</h3>
 <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/bash-icon_0.png?itok=JZG6p4sq" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://powershell.org/" target="_blank"> <img src="https://icon-library.com/images/powershell-icon/powershell-icon-15.jpg" alt="powershell" width="40" height="40"/> </a>
 
