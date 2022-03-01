@@ -3,7 +3,7 @@
 </p>
 
 
-## Hola, mi nombre es Jose, bienvenido/a a mi perfil :v:
+## Hacker, Sysadmin y aprendo a programar :v:
 
 ### Mi redes sociales 
 * :white_check_mark: Red pública: **[Linkedin](https://www.linkedin.com/in/jose-conde-garcia)**
