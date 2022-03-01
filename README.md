@@ -1,4 +1,3 @@
-![](https://github.com/conde26/conde26/blob/main/imagenes/hacked-you-have-been-hacked.gif)
 <p align="center"> 
 <img src="https://github.com/conde26/conde26/blob/main/imagenes/hacked-you-have-been-hacked.gif">
 </p>
