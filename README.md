@@ -1,5 +1,5 @@
 ![](https://github.com/conde26/conde26/blob/main/imagenes/hacked-you-have-been-hacked.gif)
-![](![image](https://gifimage.net/wp-content/uploads/2018/11/matrix-rain-gif.gif)
+![](https://gifimage.net/wp-content/uploads/2018/11/matrix-rain-gif.gif)
 
 
 ## Hola, mi nombre es Jose, bienvenido/a a mi perfil :v:
