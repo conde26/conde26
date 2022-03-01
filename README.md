@@ -1,5 +1,3 @@
-<div style="text-align:center"> <img src="https://github.com/conde26/conde26/blob/main/imagenes/hacked-you-have-been-hacked.gif" /></div>
-
 ![](https://github.com/conde26/conde26/blob/main/imagenes/hacked-you-have-been-hacked.gif)
 
 ## Hola, mi nombre es Jose, bienvenido/a a mi perfil :v:
