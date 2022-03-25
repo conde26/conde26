@@ -33,5 +33,9 @@
 <a href="https://powershell.org/" target="_blank"> <img src="https://icon-library.com/images/powershell-icon/powershell-icon-15.jpg" alt="powershell" width="40" height="40"/> </a>
 <a href="https://es.wikipedia.org/wiki/Archivo_batch" target="_blank"> <img src="https://www.shareicon.net/data/2015/10/23/660606_interface_512x512.png" alt="batch" width="40" height="40"/> </a>
 
-  
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+</p>										 
   
