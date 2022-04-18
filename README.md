@@ -3,7 +3,7 @@
 </p>
 
 
-## Hacker, Sysadmin y aprendo programación web :v:
+## Hacker/Sysadmin :v:
 
 ### Mi redes sociales 
 * :white_check_mark: Red pública: **[Linkedin](https://www.linkedin.com/in/jose-conde-garcia)**
