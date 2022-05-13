@@ -5,8 +5,6 @@
    <h3>SysAdmin | CyberSecurity Junior | Red-Team/Pentester | HTB Player</h3>
 </div>
 
-## Hacker/Sysadmin :v:
-
 ### Mi redes sociales 
 * :white_check_mark: Red pública: **[Linkedin](https://www.linkedin.com/in/jose-conde-garcia)**
 * :white_check_mark: Mi sitio web: **[Blog](https://rinconh4ck.blogspot.com/)**
