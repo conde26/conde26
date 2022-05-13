@@ -2,7 +2,7 @@
 <img src="https://github.com/conde26/conde26/blob/main/imagenes/hacked-you-have-been-hacked.gif">
 
 <div align="center"> 
-   <h3>Sysadmin | CyberSecurity Junior | Red-Team/Pentester | HTB Player</h3>
+   <h3>SysAdmin | CyberSecurity Junior | Red-Team/Pentester | HTB Player</h3>
 </div>
 
 ## Hacker/Sysadmin :v:
