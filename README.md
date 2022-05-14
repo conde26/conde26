@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h2> Advanced skills </h2>
+  <h2> Advanced skills ✨</h2>
 </div>
 <p align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
