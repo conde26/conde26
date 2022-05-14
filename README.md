@@ -5,10 +5,6 @@
    <h3>SysAdmin | CyberSecurity Junior | Red-Team/Pentester | HTB Player</h3>
 </div>
 
-<div align="center"> 
-   <h3>My social networks</h3>
-</div>
-
 <div align="center">
   <h2> Advanced skills </h2>
 </div>
