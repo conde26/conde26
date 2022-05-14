@@ -3,11 +3,12 @@
 </div>
 <div align="center"> 
    <h3>SysAdmin | CyberSecurity Junior | Red-Team/Pentester | HTB Player</h3>
+   <h4>My Hack The Box Profile</h4>
+   <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/657043">
+    <img src="htb.png" alt="Hack The Box Profile"></a>
 </div>
-     <h4>My Hack The Box Profile</h4>
-  <a title="Hack The Box Profile" href="https://github.com/conde26/conde26/blob/main/imagenes/htb.png">
-<img src="htb.png" alt="Hack The Box Profile"></a>
 
+</div>
 
 <div align="center">
   <h2> Advanced skills </h2>
