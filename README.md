@@ -8,10 +8,9 @@
 <div align="center"> 
    <h3>My social networks</h3>
 </div>
-
-* :white_check_mark: Red pública: **[Linkedin](https://www.linkedin.com/in/jose-conde-garcia)**
-* :white_check_mark: Mi sitio web: **[Blog](https://rinconh4ck.blogspot.com/)**
-
+<p align="center">
+**[Linkedin](https://www.linkedin.com/in/jose-conde-garcia)** **[Blog](https://rinconh4ck.blogspot.com/)**
+<p>
 <div align="center">
   <h2> Advanced skills </h2>
 </div>
