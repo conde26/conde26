@@ -9,9 +9,8 @@
    <h3>My social networks</h3>
 </div>
 <p align="center">
--- [Linkedin](#https://www.linkedin.com/in/jose-conde-garcia)
--- [Blog](#https://rinconh4ck.blogspot.com/)
-<p>
+[Linkedin](https://www.linkedin.com/in/jose-conde-garcia)
+[Blog](https://rinconh4ck.blogspot.com/)p>
 <div align="center">
   <h2> Advanced skills </h2>
 </div>
