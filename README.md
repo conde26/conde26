@@ -4,7 +4,7 @@
 <div align="center"> 
    <h3>SysAdmin | CyberSecurity Junior | Red-Team/Pentester | HTB Player</h3>
    <h4>My Hack The Box Profile</h4>
-    <img src="https://github.com/conde26/conde26/blob/main/imagenes/htb.png" alt="HTB Profile"></a>
+    <img src="https://github.com/conde26/conde26/blob/main/imagenes/htb2.png" alt="HTB Profile"></a>
 </div>
 
 </div>
